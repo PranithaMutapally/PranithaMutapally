@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PranithaMutapally
 - 👀 I’m interested in web development and competitive programming
 - 🌱 I’m currently learning Btech
-- 💞️ I’m looking to collaborate on a reputed company
+- 💞️ I’m looking to get placed in a reputed company
 - 📫 Gate CS 2022 AIR 5757
 
 <!---
